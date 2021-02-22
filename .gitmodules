@@ -1,0 +1,4 @@
+[submodule "wkhtmltopdf"]
+	path = wkhtmltopdf
+	url = https://github.com/sciguy16/wkhtmltopdf
+	branch = static-lib
